@@ -1,0 +1,11 @@
+Dataset 1:- https://www.kaggle.com/datasets/rkiattisak/student-performance-in-mathematics
+
+Description: This dataset contains information on the performance of high school students in mathematics, including their grades and demographic information. The data was collected from three high schools in the United States.
+
+Dataset 2:- https://archive.ics.uci.edu/dataset/320/student+performance
+
+Description: This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por).
+
+Dataset 3:- https://www.kaggle.com/datasets/csafrit2/higher-education-students-performance-evaluation
+
+Description: The data was collected from the Faculty of Engineering and Faculty of Educational Sciences students in 2019. The purpose is to predict students' end-of-term performances using ML techniques.
